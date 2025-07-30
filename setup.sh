@@ -17,5 +17,5 @@ else
     echo "Không tìm thấy requirements.txt"
 fi
 
-echo "Môi trường ảo đã được thiết lập và kích hoạt!"
-echo "Để kích hoạt lại môi trường: source .venv/bin/activate" 
+echo "Môi trường ảo đã được thiết lập!"
+echo "Để kích hoạt môi trường: source .venv/bin/activate" 
